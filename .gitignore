@@ -1,0 +1,4 @@
+*.log
+_minted-main/
+main.*
+!main.tex
